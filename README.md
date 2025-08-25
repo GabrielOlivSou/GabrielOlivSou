@@ -7,6 +7,8 @@ Profissional de TI com 2 anos de sólida experiência em suporte técnico, infra
 Atualmente, estou expandindo minhas habilidades em desenvolvimento com conhecimentos práticos em Python, SQL, JavaScript, HTML e CSS. Meu objetivo é unir minha experiência em suporte com a capacidade de criar, automatizar e analisar dados. 
 Caso queira saber mais aqui está meu Linkedin [Gabriel de Oliveira](https://www.linkedin.com/in/gabriel-de-oliveira-sousa-6a076b374/)
 
+<img align="right" alt="" height="190px" src="./src/study.gif">
+
 <p align="left">
     <a href="https://www.linkedin.com/in/gabriel-de-oliveira-sousa-6a076b374/">
       <img 
